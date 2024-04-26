@@ -12,6 +12,9 @@ We will release the code of this paper once the paper is accepted. Because the f
  spectrum_p.fasta, spectrum_n.fasta
  toxicity_p.fasta, toxicity_n.fasta
  mic_p.fasta, mic_n.fasta
+
 5. The data for training the regressor: micpos.xlsx
 
 6. predict_256.xlsx: the 256 sequences after filtering and sorting.
+
+7. predict_256_ID.xlsx: the 256 sequences and their corresponding bsa IDs.
