@@ -1,4 +1,4 @@
-# denovoBSA
+# Leveraging Generative Model for De Novo Design of Broad-Spectrum Antimicrobial Peptides
 
 We will release the code of this paper once the paper is accepted. Because the full dataset is too large, we uploaded the data for reproducing the results in this paper only due to the space limit of GitHub. The full dataset will be released once the paper is accepted. 
 
