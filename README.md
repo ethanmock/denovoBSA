@@ -1,5 +1,7 @@
 # Leveraging Generative Model for De Novo Design of Broad-Spectrum Antimicrobial Peptides
 
+The Code is avaliable in the code/ folder.
+
 Because the full dataset is too large, we uploaded the data for reproducing the results in this paper only due to the space limit of GitHub. The full dataset will be released once the paper is accepted. 
 
 1. The data for training the model can be downloaded from UniPort.
