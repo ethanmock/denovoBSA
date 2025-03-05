@@ -20,3 +20,4 @@ Because the full dataset is too large, we uploaded the data for reproducing the 
 6. predict_256.xlsx: the 256 sequences after filtering and sorting.
 
 7. predict_256_ID.xlsx: the 256 sequences and their corresponding bsa IDs.
+
